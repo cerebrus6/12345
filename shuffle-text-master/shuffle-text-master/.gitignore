@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+thumbs.db
+.DS_Store
+.idea
+*.map
+/build/**.js.map
+/build/shuffle-text.module.js.map
+/build/shuffle-text.js.map
+/src/ShuffleText.js
+/examples/browserify/yarn.lock
+/examples/rollup/yarn.lock
+/examples/webpack/yarn.lock

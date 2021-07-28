@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "browserify src/main.js -o build/bundle.js"
+  },
+  "devDependencies": {
+    "browserify": "^16.5.0"
+  },
+  "dependencies": {
+    "shuffle-text": "^0.3.0"
+  }
+}
